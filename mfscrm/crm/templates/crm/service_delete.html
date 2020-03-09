@@ -1,0 +1,18 @@
+{% extends 'crm/base.html' %}
+{% block content %}
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Delete Service</title>
+</head>
+ <h1>Delete Service for Customer {{ service.cust_name }}?</h1>
+
+    <form method="POST">
+        {% csrf_token %}
+        Are you sure you want to delete this Service?
+        <input type="submit" class="btn btn-danger" value="Yes">
+        <a href="/service_list">Cancel</a>
+    </form>
+
+{% endblock %}

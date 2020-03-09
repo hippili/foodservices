@@ -1,0 +1,21 @@
+{% extends "crm/base.html" %}
+
+{% block content %}
+    {% if form.errors %}
+    <br />
+    <p>Your username and password didn't match. Please try again.</p>
+    {% endif %}
+    <br />
+    <br />
+    <form method="post" action="{% url 'login' %}">
+         {{ form.as_p }}
+        {% csrf_token %}
+
+
+        <input type="submit" value="Login"/>
+        <a href="{% url 'password-reset' %}">Reset Password</a>
+        <a href="{% url 'signup' %}">Register Now</a>
+        <input type="hidden" name="next" value="{{ next }}"/>
+    </form>
+
+{% endblock %}
