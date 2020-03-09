@@ -75,11 +75,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="816" />
-  </component>
   <component name="ProjectId" id="1YsMgGqxQluAlxexSJ2mxE6aaf6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -230,7 +225,7 @@
       <workItem from="1555789641305" duration="18083000" />
       <workItem from="1555876710477" duration="15010000" />
       <workItem from="1583726960719" duration="1729000" />
-      <workItem from="1583728707754" duration="1531000" />
+      <workItem from="1583728707754" duration="4932000" />
     </task>
     <task id="LOCAL-00001" summary="New ATS">
       <created>1555906429466</created>
