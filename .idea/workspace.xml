@@ -88,7 +88,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangogirls" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../foodservice" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -289,9 +289,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="New ATS" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1583797249637">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1583987579625">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583797249637" />
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583987579625" />
   </component>
 </project>
