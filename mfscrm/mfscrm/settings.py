@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'mfscrm.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'dfqakdsdukt345',
-        'USER': 'spbmhpgxipsdxb',
-        'PASSWORD': '0025d62c2a28cba04c7c790e796c91ffb22a30d947ed9dc741c3513f192232c2',
-        'HOST': 'postgres://spbmhpgxipsdxb:0025d62c2a28cba04c7c790e796c91ffb22a30d947ed9dc741c3513f192232c2@ec2-54-225-121-235.compute-1.amazonaws.com:5432/dfqakdsdukt345',
+        'NAME': 'da500lgn65bmsh',
+        'USER': 'skbmywvxyusrkp',
+        'PASSWORD': '81ced5b1a0f547d5286b609b1b8c3710f1ecde5b109a604e96c2b2853bee397f',
+        'HOST': 'ec2-3-91-112-166.compute-1.amazonaws.com',
         'PORT': '5432',
 
     }
@@ -153,11 +153,7 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
-EMAIL_HOST = 'smtp.mailtrap.io'
-EMAIL_HOST_USER = '	584393ac1b9924'
-EMAIL_HOST_PASSWORD = '98fb7bc1473731'
-EMAIL_PORT = 2525
-# EMAIL_USE_TLS = True
+
 
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
@@ -167,12 +163,7 @@ LOGIN_REDIRECT_URL = '/home'
 
 LOGOUT_REDIRECT_URL = '/accounts/login'
 
-EMAIL_HOST = 'smtp.sendgrid.net'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'htshkhatri'
-EMAIL_HOST_PASSWORD = 'Hite$h005'
-EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'TestSite Team <noreply@example.com>'
+
 
 try:
     from .local_settings import *

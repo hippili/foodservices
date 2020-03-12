@@ -17,7 +17,7 @@ from django.shortcuts import render, redirect
 
 
 
-#from weasyprint import HTML
+from weasyprint import HTML
 
 
 now = timezone.now()

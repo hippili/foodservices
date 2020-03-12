@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5f63714-8a0d-4e7a-b4a0-cfc5b1539f98" name="Default Changelist" comment="" />
+    <list default="true" id="b5f63714-8a0d-4e7a-b4a0-cfc5b1539f98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,12 +88,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangogirls" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\customer\Desktop\foodservice2\mfscrm" />
+      <recent name="$PROJECT_DIR$/mfscrm/crm/automatedtests/admin" />
+      <recent name="$PROJECT_DIR$/mfscrm/crm/automatedtests/customer" />
+      <recent name="$PROJECT_DIR$/mfscrm/mfscrm" />
+      <recent name="$PROJECT_DIR$/mfscrm" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mfscrm/crm/automatedtests/admin" />
       <recent name="$PROJECT_DIR$/mfscrm/crm/automatedtests/customer" />
@@ -99,15 +108,8 @@
       <recent name="$PROJECT_DIR$/mfscrm" />
       <recent name="$PROJECT_DIR$/mfscrm/crm/automatedtests/services" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mfscrm/crm/automatedtests/admin" />
-      <recent name="$PROJECT_DIR$/mfscrm/crm/automatedtests/customer" />
-      <recent name="$PROJECT_DIR$/mfscrm/mfscrm" />
-      <recent name="$PROJECT_DIR$/mfscrm" />
-      <recent name="$PROJECT_DIR$/mfscrm/crm" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in AddMultipleCustomer.py">
+  <component name="RunManager">
     <configuration name="testsuite1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="foodservice2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,22 +147,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in AddMultipleCustomer.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="foodservice2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mfscrm/crm/automatedtests/customer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/mfscrm/crm/automatedtests/customer/AddMultipleCustomer.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in AdminLogin.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in C:/Users/customer/Desktop/foodservice2/mfscrm/crm/automatedtests/admin/AdminLogin.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="foodservice2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +162,22 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in CustomerDetails.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in C:/Users/customer/Desktop/foodservice2/mfscrm/crm/automatedtests/customer/AddMultipleCustomer.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="foodservice2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mfscrm/crm/automatedtests/customer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/mfscrm/crm/automatedtests/customer/AddMultipleCustomer.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in C:/Users/customer/Desktop/foodservice2/mfscrm/crm/automatedtests/customer/CustomerDetails.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="foodservice2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in AddMultipleCustomer.py" />
+        <item itemvalue="Python tests.Unittests in C:/Users/customer/Desktop/foodservice2/mfscrm/crm/automatedtests/customer/AddMultipleCustomer.py" />
         <item itemvalue="Python.testsuite1 (1)" />
-        <item itemvalue="Python tests.Unittests in CustomerDetails.py" />
+        <item itemvalue="Python tests.Unittests in C:/Users/customer/Desktop/foodservice2/mfscrm/crm/automatedtests/customer/CustomerDetails.py" />
         <item itemvalue="Python tests.Unittests for AdminLogout.AdminLogout.test_chat_admin_logout" />
-        <item itemvalue="Python tests.Unittests in AdminLogin.py" />
+        <item itemvalue="Python tests.Unittests in C:/Users/customer/Desktop/foodservice2/mfscrm/crm/automatedtests/admin/AdminLogin.py" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +227,8 @@
       <workItem from="1555789641305" duration="18083000" />
       <workItem from="1555876710477" duration="15010000" />
       <workItem from="1583726960719" duration="1729000" />
-      <workItem from="1583728707754" duration="4932000" />
+      <workItem from="1583728707754" duration="5391000" />
+      <workItem from="1583792953400" duration="9999000" />
     </task>
     <task id="LOCAL-00001" summary="New ATS">
       <created>1555906429466</created>
@@ -284,5 +287,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New ATS" />
     <option name="LAST_COMMIT_MESSAGE" value="New ATS" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1583797249637">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583797249637" />
   </component>
 </project>
